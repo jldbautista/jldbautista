@@ -1,2 +1,2 @@
 > **i'm joseph** <br>
-> im a current CS student @ CSU Chico
+> current CS student @ CSU Chico
